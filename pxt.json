@@ -1,5 +1,6 @@
 {
     "name": "6/3/26 if else loop - genap",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
